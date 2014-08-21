@@ -1,0 +1,1360 @@
+[
+    {
+        "enName": "Angola",
+        "cnName": "安哥拉",
+        "sortName": "AO",
+        "countryCode": "244",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Afghanistan",
+        "cnName": "阿富汗",
+        "sortName": "AF",
+        "countryCode": "93",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Albania",
+        "cnName": "阿尔巴尼亚",
+        "sortName": "AL",
+        "countryCode": "355",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Algeria",
+        "cnName": "阿尔及利亚",
+        "sortName": "DZ",
+        "countryCode": "213",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Andorra",
+        "cnName": "安道尔共和国",
+        "sortName": "AD",
+        "countryCode": "376",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Anguilla",
+        "cnName": "安圭拉岛",
+        "sortName": "AI",
+        "countryCode": "1264",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Antigua and Barbuda",
+        "cnName": "安提瓜和巴布达",
+        "sortName": "AG",
+        "countryCode": "1268",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Argentina",
+        "cnName": "阿根廷",
+        "sortName": "AR",
+        "countryCode": "54",
+        "timeZones": "-11"
+    },
+    {
+        "enName": "Armenia",
+        "cnName": "亚美尼亚",
+        "sortName": "AM",
+        "countryCode": "374",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Ascension",
+        "cnName": "阿森松",
+        "sortName": "　",
+        "countryCode": "247",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Australia",
+        "cnName": "澳大利亚",
+        "sortName": "AU",
+        "countryCode": "61",
+        "timeZones": "+2"
+    },
+    {
+        "enName": "Austria",
+        "cnName": "奥地利",
+        "sortName": "AT",
+        "countryCode": "43",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Azerbaijan",
+        "cnName": "阿塞拜疆",
+        "sortName": "AZ",
+        "countryCode": "994",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Bahamas",
+        "cnName": "巴哈马",
+        "sortName": "BS",
+        "countryCode": "1242",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Bahrain",
+        "cnName": "巴林",
+        "sortName": "BH",
+        "countryCode": "973",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Bangladesh",
+        "cnName": "孟加拉国",
+        "sortName": "BD",
+        "countryCode": "880",
+        "timeZones": "-2"
+    },
+    {
+        "enName": "Barbados",
+        "cnName": "巴巴多斯",
+        "sortName": "BB",
+        "countryCode": "1246",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Belarus",
+        "cnName": "白俄罗斯",
+        "sortName": "BY",
+        "countryCode": "375",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Belgium",
+        "cnName": "比利时",
+        "sortName": "BE",
+        "countryCode": "32",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Belize",
+        "cnName": "伯利兹",
+        "sortName": "BZ",
+        "countryCode": "501",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Benin",
+        "cnName": "贝宁",
+        "sortName": "BJ",
+        "countryCode": "229",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "BermudaIs.",
+        "cnName": "百慕大群岛",
+        "sortName": "BM",
+        "countryCode": "1441",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Bolivia",
+        "cnName": "玻利维亚",
+        "sortName": "BO",
+        "countryCode": "591",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Botswana",
+        "cnName": "博茨瓦纳",
+        "sortName": "BW",
+        "countryCode": "267",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Brazil",
+        "cnName": "巴西",
+        "sortName": "BR",
+        "countryCode": "55",
+        "timeZones": "-11"
+    },
+    {
+        "enName": "Brunei",
+        "cnName": "文莱",
+        "sortName": "BN",
+        "countryCode": "673",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Bulgaria",
+        "cnName": "保加利亚",
+        "sortName": "BG",
+        "countryCode": "359",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Burkina-faso",
+        "cnName": "布基纳法索",
+        "sortName": "BF",
+        "countryCode": "226",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Burma",
+        "cnName": "缅甸",
+        "sortName": "MM",
+        "countryCode": "95",
+        "timeZones": "-1.3"
+    },
+    {
+        "enName": "Burundi",
+        "cnName": "布隆迪",
+        "sortName": "BI",
+        "countryCode": "257",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "",
+        "cnName": "",
+        "sortName": "",
+        "countryCode": "",
+        "timeZones": ""
+    },
+    {
+        "enName": "Cameroon",
+        "cnName": "喀麦隆",
+        "sortName": "CM",
+        "countryCode": "237",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Canada",
+        "cnName": "加拿大",
+        "sortName": "CA",
+        "countryCode": "1",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Cayman Is.",
+        "cnName": "开曼群岛",
+        "sortName": "　",
+        "countryCode": "1345",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Central African Republic",
+        "cnName": "中非共和国",
+        "sortName": "CF",
+        "countryCode": "236",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Chad",
+        "cnName": "乍得",
+        "sortName": "TD",
+        "countryCode": "235",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Chile",
+        "cnName": "智利",
+        "sortName": "CL",
+        "countryCode": "56",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "China",
+        "cnName": "中国",
+        "sortName": "CN",
+        "countryCode": "86",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Colombia",
+        "cnName": "哥伦比亚",
+        "sortName": "CO",
+        "countryCode": "57",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Congo",
+        "cnName": "刚果",
+        "sortName": "CG",
+        "countryCode": "242",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Cook Is.",
+        "cnName": "库克群岛",
+        "sortName": "CK",
+        "countryCode": "682",
+        "timeZones": "-18.3"
+    },
+    {
+        "enName": "Costa Rica",
+        "cnName": "哥斯达黎加",
+        "sortName": "CR",
+        "countryCode": "506",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Cuba",
+        "cnName": "古巴",
+        "sortName": "CU",
+        "countryCode": "53",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Cyprus",
+        "cnName": "塞浦路斯",
+        "sortName": "CY",
+        "countryCode": "357",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Czech Republic",
+        "cnName": "捷克",
+        "sortName": "CZ",
+        "countryCode": "420",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Denmark",
+        "cnName": "丹麦",
+        "sortName": "DK",
+        "countryCode": "45",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Djibouti",
+        "cnName": "吉布提",
+        "sortName": "DJ",
+        "countryCode": "253",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Dominica Rep.",
+        "cnName": "多米尼加共和国",
+        "sortName": "DO",
+        "countryCode": "1890",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Ecuador",
+        "cnName": "厄瓜多尔",
+        "sortName": "EC",
+        "countryCode": "593",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Egypt",
+        "cnName": "埃及",
+        "sortName": "EG",
+        "countryCode": "20",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "EISalvador",
+        "cnName": "萨尔瓦多",
+        "sortName": "SV",
+        "countryCode": "503",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Estonia",
+        "cnName": "爱沙尼亚",
+        "sortName": "EE",
+        "countryCode": "372",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Ethiopia",
+        "cnName": "埃塞俄比亚",
+        "sortName": "ET",
+        "countryCode": "251",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Fiji",
+        "cnName": "斐济",
+        "sortName": "FJ",
+        "countryCode": "679",
+        "timeZones": "+4"
+    },
+    {
+        "enName": "Finland",
+        "cnName": "芬兰",
+        "sortName": "FI",
+        "countryCode": "358",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "France",
+        "cnName": "法国",
+        "sortName": "FR",
+        "countryCode": "33",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "French Guiana",
+        "cnName": "法属圭亚那",
+        "sortName": "GF",
+        "countryCode": "594",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Gabon",
+        "cnName": "加蓬",
+        "sortName": "GA",
+        "countryCode": "241",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Gambia",
+        "cnName": "冈比亚",
+        "sortName": "GM",
+        "countryCode": "220",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Georgia",
+        "cnName": "格鲁吉亚",
+        "sortName": "GE",
+        "countryCode": "995",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Germany",
+        "cnName": "德国",
+        "sortName": "DE",
+        "countryCode": "49",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Ghana",
+        "cnName": "加纳",
+        "sortName": "GH",
+        "countryCode": "233",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Gibraltar",
+        "cnName": "直布罗陀",
+        "sortName": "GI",
+        "countryCode": "350",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Greece",
+        "cnName": "希腊",
+        "sortName": "GR",
+        "countryCode": "30",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Grenada",
+        "cnName": "格林纳达",
+        "sortName": "GD",
+        "countryCode": "1809",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Guam",
+        "cnName": "关岛",
+        "sortName": "GU",
+        "countryCode": "1671",
+        "timeZones": "+2"
+    },
+    {
+        "enName": "Guatemala",
+        "cnName": "危地马拉",
+        "sortName": "GT",
+        "countryCode": "502",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Guinea",
+        "cnName": "几内亚",
+        "sortName": "GN",
+        "countryCode": "224",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Guyana",
+        "cnName": "圭亚那",
+        "sortName": "GY",
+        "countryCode": "592",
+        "timeZones": "-11"
+    },
+    {
+        "enName": "Haiti",
+        "cnName": "海地",
+        "sortName": "HT",
+        "countryCode": "509",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Honduras",
+        "cnName": "洪都拉斯",
+        "sortName": "HN",
+        "countryCode": "504",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Hongkong",
+        "cnName": "香港",
+        "sortName": "HK",
+        "countryCode": "852",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Hungary",
+        "cnName": "匈牙利",
+        "sortName": "HU",
+        "countryCode": "36",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Iceland",
+        "cnName": "冰岛",
+        "sortName": "IS",
+        "countryCode": "354",
+        "timeZones": "-9"
+    },
+    {
+        "enName": "India",
+        "cnName": "印度",
+        "sortName": "IN",
+        "countryCode": "91",
+        "timeZones": "-2.3"
+    },
+    {
+        "enName": "Indonesia",
+        "cnName": "印度尼西亚",
+        "sortName": "ID",
+        "countryCode": "62",
+        "timeZones": "-0.3"
+    },
+    {
+        "enName": "Iran",
+        "cnName": "伊朗",
+        "sortName": "IR",
+        "countryCode": "98",
+        "timeZones": "-4.3"
+    },
+    {
+        "enName": "Iraq",
+        "cnName": "伊拉克",
+        "sortName": "IQ",
+        "countryCode": "964",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Ireland",
+        "cnName": "爱尔兰",
+        "sortName": "IE",
+        "countryCode": "353",
+        "timeZones": "-4.3"
+    },
+    {
+        "enName": "Israel",
+        "cnName": "以色列",
+        "sortName": "IL",
+        "countryCode": "972",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Italy",
+        "cnName": "意大利",
+        "sortName": "IT",
+        "countryCode": "39",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "IvoryCoast",
+        "cnName": "科特迪瓦",
+        "sortName": "　",
+        "countryCode": "225",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Jamaica",
+        "cnName": "牙买加",
+        "sortName": "JM",
+        "countryCode": "1876",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Japan",
+        "cnName": "日本",
+        "sortName": "JP",
+        "countryCode": "81",
+        "timeZones": "+1"
+    },
+    {
+        "enName": "Jordan",
+        "cnName": "约旦",
+        "sortName": "JO",
+        "countryCode": "962",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Kampuchea (Cambodia )",
+        "cnName": "柬埔寨",
+        "sortName": "KH",
+        "countryCode": "855",
+        "timeZones": "-1"
+    },
+    {
+        "enName": "Kazakstan",
+        "cnName": "哈萨克斯坦",
+        "sortName": "KZ",
+        "countryCode": "327",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Kenya",
+        "cnName": "肯尼亚",
+        "sortName": "KE",
+        "countryCode": "254",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Korea",
+        "cnName": "韩国",
+        "sortName": "KR",
+        "countryCode": "82",
+        "timeZones": "+1"
+    },
+    {
+        "enName": "Kuwait",
+        "cnName": "科威特",
+        "sortName": "KW",
+        "countryCode": "965",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Kyrgyzstan",
+        "cnName": "吉尔吉斯坦",
+        "sortName": "KG",
+        "countryCode": "331",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Laos",
+        "cnName": "老挝",
+        "sortName": "LA",
+        "countryCode": "856",
+        "timeZones": "-1"
+    },
+    {
+        "enName": "Latvia",
+        "cnName": "拉脱维亚",
+        "sortName": "LV",
+        "countryCode": "371",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Lebanon",
+        "cnName": "黎巴嫩",
+        "sortName": "LB",
+        "countryCode": "961",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Lesotho",
+        "cnName": "莱索托",
+        "sortName": "LS",
+        "countryCode": "266",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Liberia",
+        "cnName": "利比里亚",
+        "sortName": "LR",
+        "countryCode": "231",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Libya",
+        "cnName": "利比亚",
+        "sortName": "LY",
+        "countryCode": "218",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Liechtenstein",
+        "cnName": "列支敦士登",
+        "sortName": "LI",
+        "countryCode": "423",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Lithuania",
+        "cnName": "立陶宛",
+        "sortName": "LT",
+        "countryCode": "370",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Luxembourg",
+        "cnName": "卢森堡",
+        "sortName": "LU",
+        "countryCode": "352",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Macao",
+        "cnName": "澳门",
+        "sortName": "MO",
+        "countryCode": "853",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Madagascar",
+        "cnName": "马达加斯加",
+        "sortName": "MG",
+        "countryCode": "261",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Malawi",
+        "cnName": "马拉维",
+        "sortName": "MW",
+        "countryCode": "265",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Malaysia",
+        "cnName": "马来西亚",
+        "sortName": "MY",
+        "countryCode": "60",
+        "timeZones": "-0.5"
+    },
+    {
+        "enName": "Maldives",
+        "cnName": "马尔代夫",
+        "sortName": "MV",
+        "countryCode": "960",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Mali",
+        "cnName": "马里",
+        "sortName": "ML",
+        "countryCode": "223",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Malta",
+        "cnName": "马耳他",
+        "sortName": "MT",
+        "countryCode": "356",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Mariana Is",
+        "cnName": "马里亚那群岛",
+        "sortName": "　",
+        "countryCode": "1670",
+        "timeZones": "+1"
+    },
+    {
+        "enName": "Martinique",
+        "cnName": "马提尼克",
+        "sortName": "　",
+        "countryCode": "596",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Mauritius",
+        "cnName": "毛里求斯",
+        "sortName": "MU",
+        "countryCode": "230",
+        "timeZones": "-4"
+    },
+    {
+        "enName": "Mexico",
+        "cnName": "墨西哥",
+        "sortName": "MX",
+        "countryCode": "52",
+        "timeZones": "-15"
+    },
+    {
+        "enName": "Moldova, Republic of",
+        "cnName": "摩尔多瓦",
+        "sortName": "MD",
+        "countryCode": "373",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Monaco",
+        "cnName": "摩纳哥",
+        "sortName": "MC",
+        "countryCode": "377",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Mongolia",
+        "cnName": "蒙古",
+        "sortName": "MN",
+        "countryCode": "976",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Montserrat Is",
+        "cnName": "蒙特塞拉特岛",
+        "sortName": "MS",
+        "countryCode": "1664",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Morocco",
+        "cnName": "摩洛哥",
+        "sortName": "MA",
+        "countryCode": "212",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Mozambique",
+        "cnName": "莫桑比克",
+        "sortName": "MZ",
+        "countryCode": "258",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Namibia",
+        "cnName": "纳米比亚",
+        "sortName": "NA",
+        "countryCode": "264",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Nauru",
+        "cnName": "瑙鲁",
+        "sortName": "NR",
+        "countryCode": "674",
+        "timeZones": "+4"
+    },
+    {
+        "enName": "Nepal",
+        "cnName": "尼泊尔",
+        "sortName": "NP",
+        "countryCode": "977",
+        "timeZones": "-2.3"
+    },
+    {
+        "enName": "Netheriands Antilles",
+        "cnName": "荷属安的列斯",
+        "sortName": "　",
+        "countryCode": "599",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Netherlands",
+        "cnName": "荷兰",
+        "sortName": "NL",
+        "countryCode": "31",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "NewZealand",
+        "cnName": "新西兰",
+        "sortName": "NZ",
+        "countryCode": "64",
+        "timeZones": "+4"
+    },
+    {
+        "enName": "Nicaragua",
+        "cnName": "尼加拉瓜",
+        "sortName": "NI",
+        "countryCode": "505",
+        "timeZones": "-14"
+    },
+    {
+        "enName": "Niger",
+        "cnName": "尼日尔",
+        "sortName": "NE",
+        "countryCode": "227",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Nigeria",
+        "cnName": "尼日利亚",
+        "sortName": "NG",
+        "countryCode": "234",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "North Korea",
+        "cnName": "朝鲜",
+        "sortName": "KP",
+        "countryCode": "850",
+        "timeZones": "+1"
+    },
+    {
+        "enName": "Norway",
+        "cnName": "挪威",
+        "sortName": "NO",
+        "countryCode": "47",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Oman",
+        "cnName": "阿曼",
+        "sortName": "OM",
+        "countryCode": "968",
+        "timeZones": "-4"
+    },
+    {
+        "enName": "Pakistan",
+        "cnName": "巴基斯坦",
+        "sortName": "PK",
+        "countryCode": "92",
+        "timeZones": "-2.3"
+    },
+    {
+        "enName": "Panama",
+        "cnName": "巴拿马",
+        "sortName": "PA",
+        "countryCode": "507",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Papua New Cuinea",
+        "cnName": "巴布亚新几内亚",
+        "sortName": "PG",
+        "countryCode": "675",
+        "timeZones": "+2"
+    },
+    {
+        "enName": "Paraguay",
+        "cnName": "巴拉圭",
+        "sortName": "PY",
+        "countryCode": "595",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Peru",
+        "cnName": "秘鲁",
+        "sortName": "PE",
+        "countryCode": "51",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Philippines",
+        "cnName": "菲律宾",
+        "sortName": "PH",
+        "countryCode": "63",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Poland",
+        "cnName": "波兰",
+        "sortName": "PL",
+        "countryCode": "48",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "French Polynesia",
+        "cnName": "法属玻利尼西亚",
+        "sortName": "PF",
+        "countryCode": "689",
+        "timeZones": "+3"
+    },
+    {
+        "enName": "Portugal",
+        "cnName": "葡萄牙",
+        "sortName": "PT",
+        "countryCode": "351",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "PuertoRico",
+        "cnName": "波多黎各",
+        "sortName": "PR",
+        "countryCode": "1787",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Qatar",
+        "cnName": "卡塔尔",
+        "sortName": "QA",
+        "countryCode": "974",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Reunion",
+        "cnName": "留尼旺",
+        "sortName": "　",
+        "countryCode": "262",
+        "timeZones": "-4"
+    },
+    {
+        "enName": "Romania",
+        "cnName": "罗马尼亚",
+        "sortName": "RO",
+        "countryCode": "40",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Russia",
+        "cnName": "俄罗斯",
+        "sortName": "RU",
+        "countryCode": "7",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Saint Lueia",
+        "cnName": "圣卢西亚",
+        "sortName": "LC",
+        "countryCode": "1758",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Saint Vincent",
+        "cnName": "圣文森特岛",
+        "sortName": "VC",
+        "countryCode": "1784",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Samoa Eastern",
+        "cnName": "东萨摩亚(美)",
+        "sortName": "　",
+        "countryCode": "684",
+        "timeZones": "-19"
+    },
+    {
+        "enName": "Samoa Western",
+        "cnName": "西萨摩亚",
+        "sortName": "　",
+        "countryCode": "685",
+        "timeZones": "-19"
+    },
+    {
+        "enName": "San Marino",
+        "cnName": "圣马力诺",
+        "sortName": "SM",
+        "countryCode": "378",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Sao Tome and Principe",
+        "cnName": "圣多美和普林西比",
+        "sortName": "ST",
+        "countryCode": "239",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Saudi Arabia",
+        "cnName": "沙特阿拉伯",
+        "sortName": "SA",
+        "countryCode": "966",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Senegal",
+        "cnName": "塞内加尔",
+        "sortName": "SN",
+        "countryCode": "221",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Seychelles",
+        "cnName": "塞舌尔",
+        "sortName": "SC",
+        "countryCode": "248",
+        "timeZones": "-4"
+    },
+    {
+        "enName": "Sierra Leone",
+        "cnName": "塞拉利昂",
+        "sortName": "SL",
+        "countryCode": "232",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Singapore",
+        "cnName": "新加坡",
+        "sortName": "SG",
+        "countryCode": "65",
+        "timeZones": "+0.3"
+    },
+    {
+        "enName": "Slovakia",
+        "cnName": "斯洛伐克",
+        "sortName": "SK",
+        "countryCode": "421",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Slovenia",
+        "cnName": "斯洛文尼亚",
+        "sortName": "SI",
+        "countryCode": "386",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Solomon Is",
+        "cnName": "所罗门群岛",
+        "sortName": "SB",
+        "countryCode": "677",
+        "timeZones": "+3"
+    },
+    {
+        "enName": "Somali",
+        "cnName": "索马里",
+        "sortName": "SO",
+        "countryCode": "252",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "South Africa",
+        "cnName": "南非",
+        "sortName": "ZA",
+        "countryCode": "27",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Spain",
+        "cnName": "西班牙",
+        "sortName": "ES",
+        "countryCode": "34",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Sri Lanka",
+        "cnName": "斯里兰卡",
+        "sortName": "LK",
+        "countryCode": "94",
+        "timeZones": "0"
+    },
+    {
+        "enName": "St.Lucia",
+        "cnName": "圣卢西亚",
+        "sortName": "LC",
+        "countryCode": "1758",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "St.Vincent",
+        "cnName": "圣文森特",
+        "sortName": "VC",
+        "countryCode": "1784",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Sudan",
+        "cnName": "苏丹",
+        "sortName": "SD",
+        "countryCode": "249",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Suriname",
+        "cnName": "苏里南",
+        "sortName": "SR",
+        "countryCode": "597",
+        "timeZones": "-11.3"
+    },
+    {
+        "enName": "Swaziland",
+        "cnName": "斯威士兰",
+        "sortName": "SZ",
+        "countryCode": "268",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Sweden",
+        "cnName": "瑞典",
+        "sortName": "SE",
+        "countryCode": "46",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Switzerland",
+        "cnName": "瑞士",
+        "sortName": "CH",
+        "countryCode": "41",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Syria",
+        "cnName": "叙利亚",
+        "sortName": "SY",
+        "countryCode": "963",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Taiwan",
+        "cnName": "台湾省",
+        "sortName": "TW",
+        "countryCode": "886",
+        "timeZones": "0"
+    },
+    {
+        "enName": "Tajikstan",
+        "cnName": "塔吉克斯坦",
+        "sortName": "TJ",
+        "countryCode": "992",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Tanzania",
+        "cnName": "坦桑尼亚",
+        "sortName": "TZ",
+        "countryCode": "255",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Thailand",
+        "cnName": "泰国",
+        "sortName": "TH",
+        "countryCode": "66",
+        "timeZones": "-1"
+    },
+    {
+        "enName": "Togo",
+        "cnName": "多哥",
+        "sortName": "TG",
+        "countryCode": "228",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "Tonga",
+        "cnName": "汤加",
+        "sortName": "TO",
+        "countryCode": "676",
+        "timeZones": "+4"
+    },
+    {
+        "enName": "Trinidad and Tobago",
+        "cnName": "特立尼达和多巴哥",
+        "sortName": "TT",
+        "countryCode": "1809",
+        "timeZones": "-12"
+    },
+    {
+        "enName": "Tunisia",
+        "cnName": "突尼斯",
+        "sortName": "TN",
+        "countryCode": "216",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Turkey",
+        "cnName": "土耳其",
+        "sortName": "TR",
+        "countryCode": "90",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Turkmenistan",
+        "cnName": "土库曼斯坦",
+        "sortName": "TM",
+        "countryCode": "993",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Uganda",
+        "cnName": "乌干达",
+        "sortName": "UG",
+        "countryCode": "256",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Ukraine",
+        "cnName": "乌克兰",
+        "sortName": "UA",
+        "countryCode": "380",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "United Arab Emirates",
+        "cnName": "阿拉伯联合酋长国",
+        "sortName": "AE",
+        "countryCode": "971",
+        "timeZones": "-4"
+    },
+    {
+        "enName": "United Kiongdom",
+        "cnName": "英国",
+        "sortName": "GB",
+        "countryCode": "44",
+        "timeZones": "-8"
+    },
+    {
+        "enName": "United States of America",
+        "cnName": "美国",
+        "sortName": "US",
+        "countryCode": "1",
+        "timeZones": "-13"
+    },
+    {
+        "enName": "Uruguay",
+        "cnName": "乌拉圭",
+        "sortName": "UY",
+        "countryCode": "598",
+        "timeZones": "-10.3"
+    },
+    {
+        "enName": "Uzbekistan",
+        "cnName": "乌兹别克斯坦",
+        "sortName": "UZ",
+        "countryCode": "233",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Venezuela",
+        "cnName": "委内瑞拉",
+        "sortName": "VE",
+        "countryCode": "58",
+        "timeZones": "-12.3"
+    },
+    {
+        "enName": "Vietnam",
+        "cnName": "越南",
+        "sortName": "VN",
+        "countryCode": "84",
+        "timeZones": "-1"
+    },
+    {
+        "enName": "Yemen",
+        "cnName": "也门",
+        "sortName": "YE",
+        "countryCode": "967",
+        "timeZones": "-5"
+    },
+    {
+        "enName": "Yugoslavia",
+        "cnName": "南斯拉夫",
+        "sortName": "YU",
+        "countryCode": "381",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "South Africa",
+        "cnName": "南非",
+        "sortName": "ZA",
+        "countryCode": "27",
+        "timeZones": "+2"
+    },
+    {
+        "enName": "Zimbabwe",
+        "cnName": "津巴布韦",
+        "sortName": "ZW",
+        "countryCode": "263",
+        "timeZones": "-6"
+    },
+    {
+        "enName": "Zaire",
+        "cnName": "扎伊尔",
+        "sortName": "ZR",
+        "countryCode": "243",
+        "timeZones": "-7"
+    },
+    {
+        "enName": "Zambia",
+        "cnName": "赞比亚",
+        "sortName": "ZM",
+        "countryCode": "260",
+        "timeZones": "-6"
+    }
+]
