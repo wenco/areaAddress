@@ -43,7 +43,7 @@
             return false;
           }
           var _html = '<option value="">请选择市/县</option>';
-          var _cLength = _pIndex > -1 ? opts.data[_pIndex].citys.length : 0;
+          var _cLength = _pIndex > -1 ? (opts.data[_pIndex].citys===undefined?0:opts.data[_pIndex].citys.length) : 0;
           if (_cLength > 0) {
             for (var i = 0; i < _cLength; i++) {
               if (opts.data[_pIndex].citys[i].code == opts.c) {
@@ -71,7 +71,7 @@
             return false;
           }
           var _html = '<option value="">请选择地区</option>';
-          var _cLength = _cIndex > -1 ? opts.data[_pIndex].citys[_cIndex].areas.length : 0;
+          var _cLength = _cIndex > -1 ? (opts.data[_pIndex].citys[_cIndex].areas===undefined?0:opts.data[_pIndex].citys[_cIndex].areas.length) : 0;
           if (_cLength > 0) {
             for (var i = 0; i < _cLength; i++) {
               if (opts.data[_pIndex].citys[_cIndex].areas[i].code == opts.a) {
