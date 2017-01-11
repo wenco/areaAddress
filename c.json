@@ -91,6 +91,13 @@
         "timeZones": "-5"
     },
     {
+        "enName": "Bosnia and Herzegovina",
+        "cnName": "波斯尼亚和黑塞哥维那",
+        "sortName": "BIH",
+        "countryCode": "387",
+        "timeZones": "+1"
+    },
+    {
         "enName": "Bahamas",
         "cnName": "巴哈马",
         "sortName": "BS",
@@ -210,11 +217,11 @@
         "timeZones": "-6"
     },
     {
-        "enName": "",
-        "cnName": "",
-        "sortName": "",
-        "countryCode": "",
-        "timeZones": ""
+        "enName": "Croatia",
+        "cnName": "克罗地亚共和国",
+        "sortName": "HRV",
+        "countryCode": "385",
+        "timeZones": "+1"
     },
     {
         "enName": "Cameroon",
@@ -698,6 +705,13 @@
         "sortName": "LU",
         "countryCode": "352",
         "timeZones": "-7"
+    },    
+    {
+        "enName": "Montenegro",
+        "cnName": "黑山共和国",
+        "sortName": "MNE",
+        "countryCode": "382",
+        "timeZones": "+1"
     },
     {
         "enName": "Macao",
@@ -1326,8 +1340,15 @@
         "enName": "Yugoslavia",
         "cnName": "南斯拉夫",
         "sortName": "YU",
+        "countryCode": "891",
+        "timeZones": "+1"
+    },
+    {
+        "enName": "Serbia",
+        "cnName": "塞尔维亚",
+        "sortName": "SRB",
         "countryCode": "381",
-        "timeZones": "-7"
+        "timeZones": "+1"
     },
     {
         "enName": "South Africa",
