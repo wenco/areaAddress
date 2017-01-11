@@ -833,6 +833,13 @@
         "timeZones": "-6"
     },
     {
+        "enName": "Macedonia",
+        "cnName": "马其顿共和国",
+        "sortName": "MKD",
+         "countryCode": "389",
+        "timeZones": "+1"
+    },
+    {
         "enName": "Namibia",
         "cnName": "纳米比亚",
         "sortName": "NA",
@@ -1356,6 +1363,13 @@
         "sortName": "ZA",
         "countryCode": "27",
         "timeZones": "+2"
+    },
+    {
+        "enName": "Slovenia",
+        "cnName": "斯洛文尼亚共和国",
+        "sortName": "SVN",
+        "countryCode": "386",
+        "timeZones": "+1"
     },
     {
         "enName": "Zimbabwe",
